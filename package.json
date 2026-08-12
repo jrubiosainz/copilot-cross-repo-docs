@@ -1,0 +1,11 @@
+{
+  "name": "copilot-cross-repo-docs",
+  "version": "1.0.0",
+  "description": "Cross-repo documentation sync using GitHub Agentic Workflows pattern",
+  "main": "src/index.js",
+  "bin": {
+    "cross-repo-docs": "./src/cli.js"
+  },
+  "type": "module",
+  "license": "MIT"
+}
